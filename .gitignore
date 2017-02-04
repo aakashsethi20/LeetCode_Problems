@@ -1,0 +1,7 @@
+#ignore vs code json files
+*.json
+
+#ignore compiled c++, python, and java files
+*.out
+*.class
+*.py
